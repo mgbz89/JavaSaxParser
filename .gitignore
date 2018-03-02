@@ -23,3 +23,5 @@ hs_err_pid*
 
 # Other
 .DS_Store
+/build/
+/dist/
